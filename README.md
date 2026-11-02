@@ -24,7 +24,7 @@ on the LUNA16 dataset.
 | Fold-9 | 94.444 | 91.667 | 97.619 | 94.624 | 8.59 | 4 |
 
 Five-fold mean: **93.22% accuracy**, **92.05% sensitivity**, **94.09%
-specificity**, **91.61% F1 score**, and **0.944 ± 0.013 ROC AUC**.
+specificity**, **91.61% F1 score**, and **0.944 ROC AUC**.
 
 ## Installation
 
