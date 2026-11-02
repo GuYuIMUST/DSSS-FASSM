@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use DSSS-FASSM, please cite the published article."
+title: "DSSS-FASSM"
+type: software
+authors:
+  - family-names: Cui
+    given-names: Junjie
+  - family-names: Gu
+    given-names: Yu
+  - family-names: Wang
+    given-names: Mansheng
+repository-code: "https://github.com/GuYuIMUST/DSSS-FASSM"
+license: MIT
+preferred-citation:
+  type: article
+  title: "DARTS-searched feedback-augmented state space model for 3D pulmonary nodule classification"
+  authors:
+    - family-names: Cui
+      given-names: Junjie
+    - family-names: Gu
+      given-names: Yu
+    - family-names: Wang
+      given-names: Mansheng
+    - family-names: Chen
+      given-names: Meng
+    - family-names: Yang
+      given-names: Lidong
+    - family-names: Zhang
+      given-names: Baohua
+    - family-names: Li
+      given-names: Jianjun
+    - family-names: Liu
+      given-names: Xin
+    - family-names: Hao
+      given-names: Juan
+    - family-names: Tang
+      given-names: Siyuan
+    - family-names: He
+      given-names: Qun
+  journal: "Computerized Medical Imaging and Graphics"
+  volume: 135
+  year: 2026
+  doi: "10.1016/j.compmedimag.2026.102820"
